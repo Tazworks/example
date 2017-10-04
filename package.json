@@ -3,6 +3,7 @@
     "start": "node_modules/.bin/brunch watch --server"
   },
   "dependencies": {
+    "firebase": "^4.5.0",
     "flex-item": "0.0.2",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
@@ -14,6 +15,7 @@
     "babel-brunch": "^6.1.1",
     "babel-preset-latest": "^6.24.1",
     "babel-preset-react": "^6.24.1",
-    "brunch": "^2.10.10"
+    "brunch": "^2.10.10",
+    "firebase-tools": "^3.13.0"
   }
 }
