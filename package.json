@@ -3,18 +3,17 @@
     "start": "node_modules/.bin/brunch watch --server"
   },
   "dependencies": {
+    "flex-item": "0.0.2",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-router-dom": "^4.2.2"
+    "react-router-dom": "^4.2.2",
+    "styled-components": "^2.1.2"
   },
   "devDependencies": {
     "auto-reload-brunch": "2.7.1",
     "babel-brunch": "^6.1.1",
-    "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.0",
-    "babel-preset-env": "^1.6.0",
+    "babel-preset-latest": "^6.24.1",
     "babel-preset-react": "^6.24.1",
-    "babel-register": "^6.26.0",
     "brunch": "^2.10.10"
   }
 }
